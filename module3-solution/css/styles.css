@@ -1,0 +1,65 @@
+/********** Base styles **********/
+
+/** HEADER **/
+#header-nav {
+  background-color: #999999;
+  border-radius: 0;
+  border: 0;
+}
+
+hr {
+	margin: 0;
+	border-color: #000000;
+}
+
+h2 {
+	padding: 10px;
+}
+
+button.navbar-toggle {
+  margin-top: 35px;
+}
+
+.navbar-collapse	{
+	padding: 0;
+}
+
+.navbar-header	{
+	padding-left: 20px;
+}
+
+#nav-list {
+  margin: 0;
+  background: #E7E7E7;
+  padding: 0;
+}
+
+#nav-list a {
+  text-align: center;
+  color: #000000;
+}
+
+#nav-list a:hover {
+  background: #F9CC9D;
+}
+
+.navbar-brand h1 {
+  font-family: Helvetica;
+  color: #000000;
+}
+
+.navbar-brand {
+	background-color: #999999;
+	height: 100px;
+}
+
+#info {
+	background-color: #999999;
+	height: 1000px;
+	padding: 25px;
+}
+
+
+
+
+
